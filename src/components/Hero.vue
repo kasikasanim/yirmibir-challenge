@@ -46,6 +46,15 @@ export default {
 }
 .hero-button {
   position: absolute;
-  height: 2rem;
+  padding: 16px 24px;
+  align-items: center;
+  display: flex;
+  color: #ED1C24;
+  background: white;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Sora', sans-serif;
+  border: none;
+  bottom: 18rem;
 }
 </style>
